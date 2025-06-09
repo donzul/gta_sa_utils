@@ -1,2 +1,2 @@
 # gta_sa_utils
-Collection of scripts for processing GTA SA objects
+Blender 4.x addon with utility functions for processing GTA SA geometry
